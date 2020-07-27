@@ -4,6 +4,8 @@ This is a very famous dataset and the problem statement is to predict the median
 Content
 The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The data aren't cleaned so there are some preprocessing steps required! The columns are as follows, their names are pretty self explanitory:
 
+## Following are the features given:-
+
 1. longitude: A measure of how far west a house is; a higher value is farther west
 
 2. latitude: A measure of how far north a house is; a higher value is farther north
